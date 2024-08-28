@@ -154,7 +154,7 @@
 
   + ⚙️ Neste momento é necessário ter cuidado para selecionar apenas a função "SSH" e "Utilitários de sistema padrão".
       + 🔧![image](https://github.com/user-attachments/assets/02cb96ab-07fe-48d5-9782-5596fa781927)
-      + > ⚠️ A tela seguinte irá referênciar o GRUB, aceite a instalação e prossiga.
+      > ⚠️ A tela seguinte irá referênciar o GRUB, aceite a instalação e prossiga.
 
   + ⚙️ Selecione /dev/sda.
       + 🔧![image](https://github.com/user-attachments/assets/7b4f8675-afd7-4cc1-a980-5bb628b1b863)
