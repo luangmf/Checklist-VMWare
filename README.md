@@ -164,3 +164,5 @@
 
   + ⚙️ Por fim, no primeiro contato com o SSH, após inserir o login e a senha, você terá acesso a estela tela.
       + 🔧![image](https://github.com/user-attachments/assets/016f80e5-8864-4185-9df7-3b834afda583)
+
+### ✅ Após testes de login e liberação do "root" para acesso remoto, você pode concluir que tudo está ok.
