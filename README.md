@@ -7,7 +7,7 @@
 
 > 💿 Criando a Máquina Virtual no VMWare vSphere.
 
-> 🌐 Configuração da distribuição da imagem criada utilizando o método baseado em REDE.
+> 🌐 Instalação do Debian 12 na Máquina Virtual.
 
 #
 
@@ -62,7 +62,7 @@
   + ⚙️ Por fim, clique em "Finish" para concluir a criação da VM.
       + 🔧![image](https://github.com/user-attachments/assets/4bf14376-8578-41ee-b8af-43a1fffee694)
 
-### 👨🏽‍💻 Instalação do Debian 12 na Máquina Virtual.
+### 🌐 Instalação do Debian 12 na Máquina Virtual.
 > ⚠️ Agora que a máquina virtual já está criada, será necessário instalar a imagem do Linux Debian 12. Para isso você fará os seguintes passos.
 
   + ⚙️ Selecione a máquina virtual que você criou.
@@ -143,8 +143,24 @@
   + ⚙️ Por fim, permita que o processo de formatação do disco inicie.
       + 🔧![image](https://github.com/user-attachments/assets/87462ea8-61a2-4695-a191-bc4f48083ea7)
    
-  + ⚙️ Insira o nome do usuário.
-      + 🔧
+  + ⚙️ Configurar o gerenciador de pacotes.
+      + 🔧![image](https://github.com/user-attachments/assets/57688542-e5cc-4017-8d80-827b6d5cc160)
    
-  + ⚙️ Insira o nome do usuário.
-      + 🔧
+  + ⚙️ Definir sobre espelhamento de rede complementar.
+      + 🔧![image](https://github.com/user-attachments/assets/cf24eb57-b5da-4ca0-b0ae-903f71a070f4)
+
+  + ⚙️ Configurando popularity-contest.
+      + 🔧![image](https://github.com/user-attachments/assets/1f64c506-bbba-4bb4-bf00-529546497296)
+
+  + ⚙️ Neste momento é necessário ter cuidado para selecionar apenas a função "SSH" e "Utilitários de sistema padrão".
+      + 🔧![image](https://github.com/user-attachments/assets/02cb96ab-07fe-48d5-9782-5596fa781927)
+      + > ⚠️ A tela seguinte irá referênciar o GRUB, aceite a instalação e prossiga.
+
+  + ⚙️ Selecione /dev/sda.
+      + 🔧![image](https://github.com/user-attachments/assets/7b4f8675-afd7-4cc1-a980-5bb628b1b863)
+
+  + ⚙️ E por fim, você chegou no final da instalação do Debian 12.
+      + 🔧![image](https://github.com/user-attachments/assets/c0fd74f7-94ff-4170-8122-37c2a140200d)
+
+  + ⚙️ Por fim, no primeiro contato com o SSH, após inserir o login e a senha, você terá acesso a estela tela.
+      + 🔧![image](https://github.com/user-attachments/assets/016f80e5-8864-4185-9df7-3b834afda583)
