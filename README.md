@@ -35,14 +35,32 @@
 ### 👨🏽‍💻 Criando a Máquina Virtual no VMWare vSphere.
 > ⚠️ Neste momento seguiremos para a criação da máquina virtual, é importante prestar atenção a cada passo, pois são processos que irão determinar o funcionamento correto da sua máquina virtual.
 
-  + ⚙️ 
-      + 🔧
+  + ⚙️ Para iniciar a criação da VM, clique em "Inventory".
+      + 🔧![image](https://github.com/user-attachments/assets/4c95e7c5-f316-4b83-9ac5-cf47135eeae9)
         
-  + ⚙️ 
-      + 🔧
+  + ⚙️ Clique em "New Virtual Machine".
+      + 🔧![image](https://github.com/user-attachments/assets/ab5b87e0-a6ff-45f0-b0d5-b40960198de9)
         
-  + ⚙️ 
-      + 🔧
+  + ⚙️ Selecione a opção "Typical".
+      + 🔧![image](https://github.com/user-attachments/assets/f0198453-6108-4064-b00c-a2a46becb4cd)
         
+  + ⚙️ Insira o nome da equipe no formato padrão "cloud-dsm*-ambiente-sistemaoperacional".
+      + 🔧![image](https://github.com/user-attachments/assets/0d8b16a8-51a8-45c1-8e9c-c030a6f5f020)
+
+  + ⚙️ Defina o "Datastore" disponível para armazenamento.
+      + 🔧![image](https://github.com/user-attachments/assets/2a3d539f-5e2b-4def-ba29-82bf1492a150)
+
+  + ⚙️ Selecione a seguinte versão do Debian.
+      + 🔧![image](https://github.com/user-attachments/assets/3a1a0a9e-df83-4309-8f68-1522bd44190d)
+
+  + ⚙️ Clique em "Next" nesse momento.
+      + 🔧![image](https://github.com/user-attachments/assets/5bcdbb8d-9038-4ab5-b58f-6d1bc41d4d03)
+
+  + ⚙️ Defina a quantidade de armazenamento que será utilizado na VM.
+      + 🔧![image](https://github.com/user-attachments/assets/d6300214-94ab-49c1-b654-256b26776a2b)
+
+  + ⚙️ Por fim, clique em "Finish" para concluir a criação da VM.
+      + 🔧![image](https://github.com/user-attachments/assets/4bf14376-8578-41ee-b8af-43a1fffee694)
+
   + ⚙️ 
       + 🔧
