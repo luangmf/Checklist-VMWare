@@ -128,6 +128,21 @@
   + ⚙️ Para configuração de fuso horário, selecione a opção "São Paulo".
       + 🔧![image](https://github.com/user-attachments/assets/9cfb079a-2c2c-439b-9712-b37717ecd5b0)
    
+  + ⚙️ Escolha a opção "Usar o disco inteiro".
+      + 🔧![image](https://github.com/user-attachments/assets/6631a3e6-f14e-43dc-ad02-406455fb5210)
+           
+  + ⚙️ Ainda relacionado a particionamento, selecione a opção disponível conforme a imagem.
+      + 🔧![image](https://github.com/user-attachments/assets/c03d5c57-5744-471a-8889-635eb24977fe)
+   
+  + ⚙️ Selecione a opção para iniciantes.
+      + 🔧![image](https://github.com/user-attachments/assets/19f044fc-e12b-4c43-aedf-cd6e6497c797)
+   
+  + ⚙️ Finalize o processo.
+      + 🔧![image](https://github.com/user-attachments/assets/76618924-18b5-4cea-978b-7bfef76f892a)
+   
+  + ⚙️ Por fim, permita que o processo de formatação do disco inicie.
+      + 🔧![image](https://github.com/user-attachments/assets/87462ea8-61a2-4695-a191-bc4f48083ea7)
+   
   + ⚙️ Insira o nome do usuário.
       + 🔧
    
